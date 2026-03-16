@@ -87,7 +87,8 @@ This query identifies the year with the **highest healthcare spending growth**.
 ## Dashboard
 
 An interactive **Power BI dashboard** was developed to visualise the analysis.
-<img width="1166" height="661" alt="image" src="https://github.com/user-attachments/assets/32ca1734-4163-4c89-b01b-9fdf7cc8ceea" />
+<img width="1123" height="653" alt="image" src="https://github.com/user-attachments/assets/6e7df7d4-56ec-4424-9298-6ecf652e292d" />
+
 
 
 
